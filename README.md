@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Sepehr+Sadeghi;Cyber+Security+Enthusiast;Open+Source+Lover)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=006B8F&center=true&vCenter=true&width=600&lines=My+Name+Is+Sepehr+Sadeghi;Front+End+Developer)](https://git.io/typing-svg)
 
 
 ### 🛠 Languages and Tools
