@@ -15,6 +15,4 @@
 </p>
 
 
-![Sepehr's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Sepehr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SinaSadeghi&show_icons=true&theme=dark&count_private=true)
