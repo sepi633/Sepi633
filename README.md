@@ -13,8 +13,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40" style="margin: 1rem;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin: 1rem;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40" style="margin: 1rem;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40" style="margin: 1rem;"/>
+  <img src="https://cdn.simpleicons.org/github/181717/ffffff" alt="github" width="40" height="40" style="margin: 1rem; border-radius:50%;"/>
 </p>
+
 
 
 
