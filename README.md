@@ -16,4 +16,4 @@
 
 
 ![Sepehr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sepi633&show_icons=true&theme=dark&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sepi633&layout=compact&theme=radical)
