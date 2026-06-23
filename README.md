@@ -12,6 +12,23 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/github/181717/ffffff" width="40" height="40" style="border-radius:50%;"/>
+    <!-- Figma -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
+
+  <!-- VS Code -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
+
+  <!-- i18n -->
+  <img src="https://cdn.simpleicons.org/i18next/26A69A" width="40" height="40"/>
+
+  <!-- Claude -->
+  <img src="https://cdn.simpleicons.org/anthropic/191919" width="40" height="40"/>
+
+  <!-- AOS -->
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40" height="40" title="AOS"/>
+
+  <!-- GSAP -->
+  <img src="https://cdn.simpleicons.org/greensock/88CE02" width="40" height="40"/>
 </p>
 
 
