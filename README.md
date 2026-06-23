@@ -20,7 +20,7 @@
 
   <!-- i18n -->
   <img src="https://cdn.simpleicons.org/i18next/26A69A" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+
 </p>
 
 
